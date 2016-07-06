@@ -10,7 +10,7 @@
   "homepage": "http://github.com/steves/node-jira",
   "repository": {
     "type": "git",
-    "url": "http://github.com/steves/node-jira.git"
+    "url": "git+https://github.com/chaos-adept/node-jira.git"
   },
   "engine": {
     "node": ">=0.4.0"

@@ -1,5 +1,5 @@
 {
-  "name": "jira",
+  "name": "chaos-adept-jira",
   "version": "0.9.2",
   "description": "Wrapper for the JIRA API",
   "author": "Steven Surowiec <steven.surowiec@gmail.com>",
@@ -7,7 +7,7 @@
     "Chris Moultrie <chris@moultrie.org>",
     "Lucas Vogelsang <l@lucasvo.com>"
   ],
-  "homepage": "http://github.com/steves/node-jira",
+  "homepage": "http://github.com/chaos-adept/node-jira",
   "repository": {
     "type": "git",
     "url": "https://github.com/chaos-adept/node-jira"
